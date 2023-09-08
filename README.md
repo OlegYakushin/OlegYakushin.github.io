@@ -1,5 +1,4 @@
-# OlegYakushin.github.io
 
-#DAY'S
+# DAY'S
 
-#DAY'S - Count down the days on travels
+# DAY'S - Count down the days on travels
