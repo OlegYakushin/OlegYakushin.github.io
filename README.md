@@ -5,10 +5,10 @@
 
 Soon in the AppStore!
 
-# Tech Stack
-SwiftUI
-XCode Cloud
-Apple CoreData
+### Tech Stack
+- SwiftUI
+- XCode Cloud
+- Apple CoreData
 
 # Legal
 
