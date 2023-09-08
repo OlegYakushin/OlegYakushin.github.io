@@ -15,6 +15,6 @@ Apple CoreData
 Terms And Conditions
 Privacy Policy
 
-# Build with passion by Oleg Yakushin
+# Build with passion by [Oleg Yakushin](https://www.instagram.com/olegotka_swift/) 
 
 
