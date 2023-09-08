@@ -3,4 +3,18 @@
 
 # DAY'S - Count down the days on travels
 
-Soon on the AppStore!
+Soon in the AppStore!
+
+# Tech Stack
+SwiftUI
+XCode Cloud
+Apple CoreData
+
+# Legal
+
+Terms And Conditions
+Privacy Policy
+
+# Build with passion by Oleg Yakushin
+
+
