@@ -13,7 +13,7 @@ Apple CoreData
 # Legal
 
 Terms And Conditions
-[Privacy Policy](https://github.com/OlegYakushin/olegyakushin.github.io/edit/main/PrivacyPolicy.md)
+[Privacy Policy](https://olegyakushin.github.io/PrivacyPolicy.md)
 
 # Built with passion by [Oleg Yakushin](https://www.instagram.com/olegotka_swift/) 
 
