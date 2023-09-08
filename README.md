@@ -10,9 +10,10 @@ Soon in the AppStore!
 - XCode Cloud
 - Apple CoreData
 
-# Legal
+### Legal
 
-Terms And Conditions
+[Terms And Conditions](/TermsAndConditions.md)
+
 [Privacy Policy](/PrivacyPolicy.md)
 
 # Built with passion by [Oleg Yakushin](https://www.instagram.com/olegotka_swift/) 
