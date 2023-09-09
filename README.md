@@ -1,4 +1,4 @@
-<img width="100" height="100" src="/Icon.png" alt="Иконка">
+<img width="100" height="100" src="/Icon.png" alt="Icon">
 
 
 # DAY'S - Count down the days on travels
