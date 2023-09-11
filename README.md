@@ -3,7 +3,7 @@
 
 # DAY'S - Count down the days on travels
 
-> **Soon in the AppStore!**
+> **We in the [AppStore](https://apps.apple.com/tr/app/days/id6464660094)!**
 
 DAY'S is your ultimate companion for tracking the days you spend in different countries during your adventures. 
 Whether you're a frequent traveler, a digital nomad, or just want to keep a record of your journeys, this app makes it easy to monitor and organize your travel history.
